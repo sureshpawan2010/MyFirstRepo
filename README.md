@@ -1,1 +1,1 @@
-# MyFirstRepo to demonstaration of learing git.
+# MyFirstRepo to demonstration of learning git.
